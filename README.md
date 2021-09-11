@@ -23,3 +23,5 @@ category of the book. All these folders have been stored inside one combined fol
 “book_images”.
 
 **ALL OF THIS TASK HAS BEEN AUTOMATED USING PYTHON SCRIPT**
+
+RUN THE FILE backend.py TO SEE THIS PROJECT IN ACTION
